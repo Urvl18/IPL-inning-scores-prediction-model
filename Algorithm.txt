@@ -1,0 +1,11 @@
+1.input all_matches.csv as source data
+2.filter matches after 2016 season and first 6 overs only
+3.refine data for stadium names and player names and handle the null values.
+4.create matchwise data for run scored after last power play.
+5.calculate batsman's experience weighted average strike rate.
+6.calculate bowlers's experience weighted average economy rate. 
+7.calculate total wickets.
+8.create training data
+9.train random a forest regressor.
+10.take input data and modify it as per the training data
+11.predict score
